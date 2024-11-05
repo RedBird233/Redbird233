@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm RedBird233
+🌱 I’m currently learning Computer Science, a self-learner on **Bilibili Univ.**.
+
+---
+*Latest update: 
+5/11/2024 
+12:00:00 PM*  
 
 <!--
 **RedBird233/Redbird233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
